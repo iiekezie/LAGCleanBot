@@ -66,7 +66,7 @@ LAGCleanBot enables anyone with a smartphone or internet connection to:
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/lagcleanbot.git
+git clone https://github.com/iiekezie/lagcleanbot.git
 cd lagcleanbot
 
 # Frontend Setup
